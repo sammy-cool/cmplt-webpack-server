@@ -1,0 +1,23 @@
+{
+  "name": "cmplt-webpack-setup",
+  "version": "1.0.0",
+  "description": "cmplt-webpack-setup",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --config webpack.config.js",
+    "prod:build": "webpack --mode production --config webpack.config.js",
+    "build:test": "webpack --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "priyanshu"
+  ],
+  "author": "Priyanshu Patel",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
