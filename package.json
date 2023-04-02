@@ -16,7 +16,9 @@
   "author": "Priyanshu Patel",
   "license": "MIT",
   "devDependencies": {
+    "css-loader": "^6.7.3",
     "lodash": "^4.17.21",
+    "style-loader": "^3.3.2",
     "webpack": "^5.77.0",
     "webpack-cli": "^5.0.1"
   }

@@ -1,0 +1,11 @@
+.hello {
+  font-family: fantasy;
+  color: gray;
+  font-size: 3rem;
+  font-weight: bold;
+  background: url("https://images.pexels.com/photos/16154361/pexels-photo-16154361.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+
+body {
+  background-color: #000;
+}
